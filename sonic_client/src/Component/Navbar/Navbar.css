@@ -1,0 +1,7 @@
+.chakra_color div .logo_text{
+    color: white;
+}
+
+.logo_text{
+    color: black !important;
+}

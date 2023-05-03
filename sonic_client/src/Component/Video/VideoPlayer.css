@@ -1,0 +1,15 @@
+.videoPlayer{
+    width: 80%;
+    min-height: 350px;
+    min-width: 280px;
+    max-width: 600px;
+    margin: 50px auto;
+    padding: 10px;;
+    border-radius: 10px;
+    color: white;
+}
+
+.video{
+    width: 100%;
+    min-height: 300px;
+}
